@@ -1,0 +1,16 @@
+h1{
+    color:midnightblue;
+    text-align: center;
+    
+}
+
+form{
+    text-align: center;
+}
+
+body{
+background-color: navajowhite;
+}
+    ul li :hover{
+    background-color: crimson;
+}
